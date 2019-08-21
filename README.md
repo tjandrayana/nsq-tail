@@ -4,9 +4,11 @@ How to get message from NSQ ?
 You can use this service now.
 
 ## How To Use ???
+```
 1. Clone this repository
 2. Run the service 
 3. Do request use postman / curl
+```
 
 ## Example 
 ```
