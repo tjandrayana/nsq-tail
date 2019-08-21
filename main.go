@@ -9,7 +9,7 @@ import (
 	"os/exec"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/tjandrayana/learn-neo4j/jsonapi"
+	"github.com/tjandrayana/nsq-tail/jsonapi"
 	"github.com/urfave/negroni"
 	grace "gopkg.in/paytm/grace.v1"
 )
